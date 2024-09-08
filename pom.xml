@@ -71,8 +71,8 @@
 			<url>https://repo.extendedclip.com/content/repositories/placeholderapi/</url>
 		</repository>
 		<repository>
-			<id>spigot-repo</id>
-			<url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
+			<id>papermc</id>
+			<url>https://papermc.io/repo/repository/maven-public/</url>
 		</repository>
 		<repository>
 			<id>jitpack-repo</id>
@@ -124,7 +124,7 @@
 			<dependency>
 				<groupId>com.github.Zrips</groupId>
 				<artifactId>Jobs</artifactId>
-				<version>4.17.2</version>
+				<version>v4.17.2</version>
 				<scope>provided</scope>
 			</dependency>
 			<dependency>
